@@ -43,16 +43,33 @@ I acknowledge that preparing for a job is itself a responsibility and must be tr
 
 ---
 
+Great clarification — this strengthens the contract and removes any ambiguity.
+
+Below is the **rewritten “Nature of the Work” section only**, updated exactly as you described.
+You can **replace the existing section** with this.
+
+---
+
 ## 🛠️ Nature of the Work
 
-I agree to prioritize:
+I agree that this journey is **build-first, ownership-driven**, and outcome-focused.
 
-* Learning fundamentals deeply
-* Applying concepts through small, real builds
-* Writing code and solving problems regularly
-* Documenting progress clearly and honestly
+I will:
 
-I understand that watching content without application does not count as progress.
+* Build **real products or meaningful features from start to finish**
+* Own the complete lifecycle: understanding the problem, designing a solution, implementing it, refining it, and documenting it
+* Treat every build as **resume-worthy work**, not practice or demo code
+* Take full ownership of what I build, as if it were shipped to real users
+
+Each completed product or feature is **my responsibility and my proof of capability**.
+
+The intention is clear:
+
+* These builds will form the **core of my resume**
+* They will serve as **public proof of my skills**
+* They will significantly increase my chances of cracking **my first or dream job**
+
+I understand that **ownership creates confidence**, and confidence is what converts effort into opportunity.
 
 ---
 
