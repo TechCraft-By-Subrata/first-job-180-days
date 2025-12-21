@@ -66,16 +66,28 @@ I understand that **ownership creates confidence**, and confidence is what conve
 
 ---
 
-## 📣 Build in Public (Mandatory)
+## 📣 Build in Public (Accountability-Oriented)
 
-I commit to building in public by:
+I understand that not all work can be shared publicly. Some projects or features may belong to **private or confidential repositories**.
 
-* Pushing code regularly to GitHub
-* Writing short weekly progress reflections
-* Sharing learnings, failures, and improvements openly
-* Accepting feedback without ego or defensiveness
+I commit to building in public in **responsible and ethical ways**, which may include:
 
-I understand that **visibility creates opportunity**.
+* Sharing **what I built**, without exposing private code
+* Writing summaries of problems solved and approaches taken
+* Documenting learnings, trade-offs, and decisions
+* Creating redacted demos, screenshots, diagrams, or explanations where appropriate
+* Publishing reflections on challenges faced and how they were resolved
+
+The goal is **not code exposure**, but **proof of work and growth**.
+
+I acknowledge that:
+
+* Visibility builds credibility
+* Reflection demonstrates understanding
+* Consistent updates create accountability
+
+I will maintain a public trail of progress while respecting privacy, security, and ownership boundaries.
+
 
 ---
 
