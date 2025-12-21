@@ -23,7 +23,7 @@ If you’re looking for **direction, structure, and accountability**, continue r
 > ⚠️ **Important:**
 > This repository operates on a **commitment-based model**.
 > Before proceeding, you must read and agree to the
-> 👉 **[Commitment Contract](./COMMITMENT_CONTRACT.md)**
+> 👉 **[Commitment Contract](./commitment_contract.md)**
 >
 > If you’re not ready to honor that contract, this repo is not for you.
 
@@ -79,7 +79,7 @@ By the end of 180 days, you will have:
 
 No deadlines imposed by me.
 The discipline is **yours**, as defined in the
-👉 **[Commitment Contract](./COMMITMENT_CONTRACT.md)**.
+👉 **[Commitment Contract](./commitment_contract.md)**.
 
 ---
 
