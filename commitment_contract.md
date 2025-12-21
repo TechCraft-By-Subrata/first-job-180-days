@@ -1,0 +1,164 @@
+# 📜 Commitment Contract
+
+**First Job in 180 Days**
+
+---
+
+## 🎯 Purpose of This Contract
+
+This contract exists to create **clarity, seriousness, and accountability**.
+
+There is:
+
+* No money involved
+* No legal obligation
+* No guarantee promised
+
+This is a **personal commitment** to show up consistently and do the work.
+
+---
+
+## 🧑‍💻 Who This Contract Is For
+
+I enter this contract because:
+
+* I genuinely want to secure my **first job**
+* I am willing to be evaluated by **what I build**, not what I claim
+* I understand that confusion is costly, and direction matters
+* I accept that long-term outcomes require daily discipline
+
+---
+
+## ⏳ Time & Effort Commitment
+
+I commit to investing focused, distraction-free time every day, understanding that consistency matters more than intensity.
+
+* **Minimum (non-negotiable):**
+  ⏱️ **2–4 hours daily** of focused, outcome-driven work
+
+* **For active job seekers / currently unemployed candidates:**
+  ⏱️ **Depending on personal circumstances, a serious job search may require 6–8 hours daily, approached with discipline and structure—not panic.**
+
+I acknowledge that preparing for a job is itself a responsibility and must be treated with seriousness, patience, and long-term intent.
+
+---
+
+## 🛠️ Nature of the Work
+
+I agree to prioritize:
+
+* Learning fundamentals deeply
+* Applying concepts through small, real builds
+* Writing code and solving problems regularly
+* Documenting progress clearly and honestly
+
+I understand that watching content without application does not count as progress.
+
+---
+
+## 📣 Build in Public (Mandatory)
+
+I commit to building in public by:
+
+* Pushing code regularly to GitHub
+* Writing short weekly progress reflections
+* Sharing learnings, failures, and improvements openly
+* Accepting feedback without ego or defensiveness
+
+I understand that **visibility creates opportunity**.
+
+---
+
+## 🚫 What I Will Avoid
+
+I agree that I will not:
+
+* Chase certificates instead of skills
+* Jump between tools or technologies impulsively
+* Compare my early stage with someone else’s advanced journey
+* Disappear when progress feels slow
+* Blame mentors, tools, or circumstances for lack of effort
+
+---
+
+## 🤝 Mentor–Candidate Understanding
+
+I acknowledge that:
+
+* Guidance does not mean guarantees
+* The mentor provides **direction and feedback**
+* Discipline, execution, and consistency are **entirely my responsibility**
+
+I respect the mentor’s time and effort.
+
+---
+
+## 📉 Handling Missed Days
+
+If I fall behind:
+
+* **1–2 days missed:** I recover immediately
+* **3–5 days missed:** I write a reflection explaining what failed
+* **More than 7 days missed:** I reassess my seriousness and recommit intentionally
+
+No excuses. Only honesty and correction.
+
+---
+
+## 📈 How Progress Is Measured
+
+Progress will be measured by:
+
+* Code written
+* Problems solved
+* Projects completed
+* Concepts applied independently
+* Confidence built through practice
+
+Not by:
+
+* Hours logged
+* Videos watched
+* Courses completed
+
+---
+
+## 🧠 Mental Health & Sustainability
+
+I acknowledge that this journey is demanding.
+
+I commit to:
+
+* Maintaining a sustainable routine
+* Taking short, intentional breaks when required
+* Asking for help when overwhelmed
+* Returning with discipline, not quitting silently
+
+Discipline does not mean burnout.
+
+---
+
+## 🖊️ Declaration
+
+By continuing with this repository, I declare:
+
+> *I choose discipline over comfort.*
+> *I choose action over excuses.*
+> *I choose long-term growth over short-term relief.*
+
+**Name:** __________________________
+**GitHub Username:** ________________
+**Start Date:** _____________________
+**Target End Date (180 days):** ______
+
+---
+
+## 💛 Final Reminder
+
+This contract works only if I honor it.
+
+If I remain consistent for 180 days,
+**I will not be the same person who started this journey.**
+
+---
+
