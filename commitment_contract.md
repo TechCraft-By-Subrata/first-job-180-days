@@ -103,13 +103,6 @@ I agree that I will not:
 
 ---
 
-Excellent addition — this reinforces **self-reliance** and **long-term thinking**.
-Here’s a **polished, contract-appropriate version** that blends perfectly with the existing section.
-
-You can **replace the Mentor–Candidate Understanding section with this final version**:
-
----
-
 ## 🤝 Mentor–Candidate Understanding
 
 I acknowledge that:
