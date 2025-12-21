@@ -2,6 +2,9 @@
 
 **A discipline-driven, build-first path to crack your first job**
 
+> ⚠️ Serious candidates only.  
+> Read 👉 [START_HERE.md](./start_here.md) before doing anything else.
+
 ---
 
 ## 👋 Read This First (Important)
