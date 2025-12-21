@@ -43,13 +43,6 @@ I acknowledge that preparing for a job is itself a responsibility and must be tr
 
 ---
 
-Great clarification — this strengthens the contract and removes any ambiguity.
-
-Below is the **rewritten “Nature of the Work” section only**, updated exactly as you described.
-You can **replace the existing section** with this.
-
----
-
 ## 🛠️ Nature of the Work
 
 I agree that this journey is **build-first, ownership-driven**, and outcome-focused.
