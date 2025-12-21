@@ -103,6 +103,13 @@ I agree that I will not:
 
 ---
 
+Excellent addition — this reinforces **self-reliance** and **long-term thinking**.
+Here’s a **polished, contract-appropriate version** that blends perfectly with the existing section.
+
+You can **replace the Mentor–Candidate Understanding section with this final version**:
+
+---
+
 ## 🤝 Mentor–Candidate Understanding
 
 I acknowledge that:
@@ -111,19 +118,33 @@ I acknowledge that:
 * The mentor provides **direction and feedback**
 * Discipline, execution, and consistency are **entirely my responsibility**
 
-I respect the mentor’s time and effort.
+I understand that the mentor has **full-time professional responsibilities** alongside this initiative. I will therefore **avail guidance only during the agreed or scheduled time** to raise doubts or concerns.
+
+For long-term success, I recognize that **learning to fix issues independently is critical**. I will make sincere efforts to research, debug, and solve problems on my own before reaching out, instead of depending on the mentor for every obstacle.
+
+Even if I have access to the mentor’s contact details, I will **not spam, over-message, or seek constant validation**. I will ask clear, well-thought-out questions and respect response times and personal boundaries.
+
+I respect the mentor’s time, effort, and intent to help.
 
 ---
 
 ## 📉 Handling Missed Days
 
+I understand that consistency is critical to progress and momentum.
+
 If I fall behind:
 
-* **1–2 days missed:** I recover immediately
-* **3–5 days missed:** I write a reflection explaining what failed
-* **More than 7 days missed:** I reassess my seriousness and recommit intentionally
+* **1–2 days missed:** I recover immediately and resume without delay.
+* **3–5 days missed:** I write a short reflection explaining what went wrong and how I will prevent recurrence.
+* **More than 7 days missed:** I reassess my seriousness and recommit intentionally before continuing.
 
-No excuses. Only honesty and correction.
+### 🔁 Extended Break Rule (Momentum Reset)
+
+If I take a break of **more than 15 consecutive days**, I acknowledge that momentum is lost. In such cases, I agree to **restart the program from the beginning**, treating it as a fresh **180-day commitment** rather than continuing from where I stopped.
+
+In exceptional situations (such as health issues or unavoidable personal circumstances), a reset may be discussed. However, restarting remains the default expectation to preserve discipline and integrity of the process.
+
+No excuses. Only honesty, reflection, and corrective action.
 
 ---
 
